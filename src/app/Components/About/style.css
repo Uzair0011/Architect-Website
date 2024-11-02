@@ -1,0 +1,77 @@
+.about-main {
+  width: 100%;
+  height: 710px;
+  /* background-color: blue; */
+  justify-items: center;
+  align-content: center;
+}
+.aboutChild {
+  width: 1170px;
+  height: 435px;
+  background-color: #fbfbfb;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* picture 1 */
+.picture1 {
+  width: auto;
+  height: 435px;
+  /* background-color: darkviolet; */
+  /* gap: 20px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.p1 {
+  width: 270px;
+  height: 265px;
+  background-color: blanchedalmond;
+}
+.p2 {
+  width: 270px;
+  height: 140px;
+  position: relative;
+  bottom: -20px;
+  /* background-color: darkolivegreen; */
+}
+/* picture 2 */
+.p3 {
+  width: 270px;
+  height: 345px;
+  /* background-color: crimson; */
+}
+/* picture 3 */
+
+.aboutTextHeading {
+  width: 450px;
+  height: 380px;
+  /* background-color: darkgreen; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.aboutText {
+  font-size: 64px;
+  color: #bdbdbd;
+}
+.aboutPara {
+  font-size: 16px;
+}
+
+/* button */
+.buttonAbout {
+  width: 222px;
+  height: 71px;
+  /* padding-top: 100px; */
+  background-color: white;
+  /* background-color: blue; */
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}

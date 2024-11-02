@@ -1,0 +1,93 @@
+.heroMain {
+  width: 100%;
+  height: 831px;
+  /* background-color: aqua; */
+  display: flex;
+  /* align-items: center; */
+}
+.hero {
+  width: 40%;
+  height: auto;
+}
+.building {
+  background-image: url(/building.png);
+  width: 770px;
+  height: 829px;
+  background-size: cover;
+  align-content: end;
+}
+.leftBox {
+  width: 222px;
+  height: 71px;
+  background-color: white;
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
+}
+.buildingArrow {
+  width: 24px;
+  height: 24px;
+  /* background-color: brown; */
+  padding: 0 2px;
+}
+.vport {
+  padding: 0 20px;
+  font-size: 14px;
+}
+/* body text */
+
+.pro {
+  font-size: 64px;
+  /* opacity: 50%; */
+  color: #bdbdbd;
+}
+.loremSize {
+  font-size: 64px;
+  font-weight: 600;
+}
+.hero {
+  /* width: 100%; */
+  height: auto;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  padding-left: 150px;
+  padding-top: 290px;
+}
+.secondDivArrow {
+  display: flex;
+  gap: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.one {
+  width: 53px;
+  height: 53px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #bdbdbd;
+}
+.two {
+  width: 53px;
+  height: 53px;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #bdbdbd;
+}
+.thirdDiv {
+  width: 150px;
+  font-size: 27px;
+  display: flex;
+  justify-content: space-between;
+  color: #bdbdbd;
+}
+.line {
+    padding-top: 8px;
+  width: 20px;
+  height: 10px;
+}
