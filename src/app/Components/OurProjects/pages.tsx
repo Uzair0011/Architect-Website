@@ -15,19 +15,19 @@ export default function OurProjects() {
               </div>
             </div>
             <div className="box1 ">
-              <Image src="/b2.png" alt="logo" width={590} height={300} />
+              <Image src="/b2.png" alt="pic" width={590} height={300} />
             </div>
           </div>
 
           <div className="boxesAll2">
             <div className="box3 ">
-              <Image src="/b3.png" alt="logo" width={1000} height={1000} />
+              <Image src="/b3.png" alt="left pic" width={1000} height={1000} />
             </div>
             <div className="box4 ">
-              <Image src="/b4.png" alt="logo" width={1000} height={1000} />
+              <Image src="/b4.png" alt="center" width={1000} height={1000} />
             </div>
             <div className="box5 ">
-              <Image src="/b5.png" alt="logo" width={1000} height={1000} />
+              <Image src="/b5.png" alt="last image" width={1000} height={1000} />
             </div>
           </div>
         </div>

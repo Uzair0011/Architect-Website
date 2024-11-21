@@ -6,7 +6,7 @@
   /* align-items: center; */
 }
 .hero {
-  width: 40%;
+  width: 45%;
   height: auto;
 }
 .building {
@@ -27,7 +27,6 @@
 .buildingArrow {
   width: 24px;
   height: 24px;
-  /* background-color: brown; */
   padding: 0 2px;
 }
 .vport {
@@ -38,7 +37,6 @@
 
 .pro {
   font-size: 64px;
-  /* opacity: 50%; */
   color: #bdbdbd;
 }
 .loremSize {

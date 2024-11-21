@@ -5,7 +5,6 @@ export default function Contact() {
   return (
     <div className="contactMain">
       {" "}
-
       <div className="contact">
         <div className="Contact1">Contact Us</div>
 
@@ -31,18 +30,14 @@ export default function Contact() {
         </div>
 
         <div className="buttonUp">
-     <button className="buttonContact">
-        SEND EMAIL
-        <div className="buttonArrow">
-          <Image src="/A2White.png" alt="arrow" width={24} height={24} />
+          <button className="buttonContact">
+            SEND EMAIL
+            <div className="buttonArrow">
+              <Image src="/A2White.png" alt="arrow" width={24} height={24} />
+            </div>
+          </button>
         </div>
-      </button>
-     </div>
-
-
-
       </div>
- 
     </div>
   );
 }
